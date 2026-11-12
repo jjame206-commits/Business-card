@@ -11,4 +11,4 @@
 | C | Red Bull Sugarfree | Mediocre |
 | F | Original Monster | Atrocious |
 
-> zero sugar supremacy
+> Zero Sugar supremacy
