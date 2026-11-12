@@ -2,7 +2,8 @@
 
 ## Information Design Student
 
-**I love my gay dog** **TM**
+**I love my gay dog** *TM*
+
 | Tier | Energy Drink | Verdict |
 |---|---|---|
 | S | Monster Zero Ultra (White) | Delectable |
